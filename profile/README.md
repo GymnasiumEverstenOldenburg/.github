@@ -1,6 +1,5 @@
 # Gymnasium Eversten Oldenburg (GEO)
 
-### https://gymnasium-eversten.de/
+**This organization is unofficial and not affiliated with the school - it is created and run by students**
 
-
-_This organization is created and run by students_
+Home page of the school: [https://gymnasium-eversten.de/](https://gymnasium-eversten.de/)
